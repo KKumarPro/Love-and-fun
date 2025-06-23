@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Dreaming Outloud Script Pro', cursive, sans-serif;
+  font-family: 'Dreaming Outloud Script Pro', sans-serif;
   background-color: #fff5f7;
   display: flex;
   flex-direction: column;
@@ -23,7 +23,7 @@ body {
 
 .message-box {
   position: absolute;
-  top: 60%;
+  top: 73%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: #ffeff1;
